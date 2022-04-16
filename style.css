@@ -14,16 +14,17 @@ body{
 
 .box1{
 
-   height: 729px; 
+   height: 829px; 
    width:450px;
    background-image: linear-gradient(to bottom right,#F3d184 30%,#F0D18C 70%);
    margin-left: 200px;
   /* margin-top: 200px; */ 
 }
 .content{
-    margin-top: 2px;
-    font-family: 'Open Sans', sans-serif;
+    
+     font-family: 'Open Sans', sans-serif;
      font-size: large;
+
 }
  .all{
      margin-left: 40px;
@@ -53,7 +54,7 @@ h3{
      margin:40px 50px;
  }
 .box2{
-         height:700px; 
+         height:800px; 
         width:850px;
         background: #FFFFFF;
         margin-left: -42px;
